@@ -4,7 +4,7 @@ Welcome to **Higher or Lower**, a fun and beginner-friendly Solidity smart contr
 This project helps you understand how to build, deploy, and interact with a simple **on-chain guessing game** using **Ethereum smart contracts**.
 
 ---
-
+---
 ## 📖 Project Description
 
 **Higher or Lower** is a simple smart contract where players guess if the next randomly generated number will be **higher** or **lower** than the current one.
