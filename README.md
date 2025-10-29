@@ -4,6 +4,8 @@ Welcome to **Higher or Lower**, a fun and beginner-friendly Solidity smart contr
 This project helps you understand how to build, deploy, and interact with a simple **on-chain guessing game** using **Ethereum smart contracts**.
 
 ---
+<img width="1920" height="1200" alt="celosepo" src="https://github.com/user-attachments/assets/6e056ecf-0ebc-48a4-a47a-8dd287721a32" />
+
 ---
 ## 📖 Project Description
 
