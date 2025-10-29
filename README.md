@@ -48,3 +48,5 @@ This project is perfect for Solidity beginners who want to learn:
 
 ```solidity
 //paste your code
+<img width="1920" height="1200" alt="celosepo" src="https://github.com/user-attachments/assets/4017e49b-0326-4071-b800-21a7967428de" />
+
